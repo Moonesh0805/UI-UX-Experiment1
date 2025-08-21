@@ -21,7 +21,7 @@ d. Illustrate the relationship between UI and UX in design.
 e. Demonstrate various UI/UX design tools in detail.
 
 ## Output:
-
+https://drive.google.com/file/d/19FSYrquP1dFJhFycfPBCRJnTSbLBx08b/view?usp=drivesdk
 
 ## Result:
 
